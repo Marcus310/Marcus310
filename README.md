@@ -3,7 +3,7 @@
 -  👨‍🎓 Cursando ADS
 -  👨‍💻 Futuro dev fronte-end
 -  💻 Estudando HTML5, CSS3 e JS
-##
+
 <div align="center">
   <a href="https://github.com/Marcus310">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcus310&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
