@@ -1,5 +1,5 @@
 
--  😄 console.log("baum ?")
+-  😄 console.log("tudo bem com você?")
 -  👨‍🎓 Cursando ADS
 -  👨‍💻 Futuro dev fronte-end
 -  💻 Estudando HTML5, CSS3 e JS
