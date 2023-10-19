@@ -1,7 +1,7 @@
 
 -  😄 console.log("Tudo bem com você?")
 -  👨‍🎓 Cursando ADS
--  👨‍💻 Futuro dev fronte-end
+-  👨‍💻 Futuro dev front-end
 -  💻 Estudando HTML5, CSS3 e JS
 
 <div align="left">
