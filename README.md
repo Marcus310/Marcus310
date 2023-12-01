@@ -1,7 +1,7 @@
-# Olá! Eu sou o Marcus Vinicius 👋👋
+# Olá! Eu sou o Marcus Vinicius 🤝
 
 ## Sobre mim
--  Estagiario de T.I
+-  🖥️  Estagiario de T.I
 -  👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas na FACENS de Sorocaba
 -  👨‍💻 Futuro dev front-end
 -  💻 Estudando HTML5, CSS3 e JS
@@ -27,12 +27,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+ 
+  ## Redes Sociais
   
-  <!-----------------------------------------------Para adicionar os icones acima -- > https://devicon.dev/ -------------------------------------------------------------------->
-  ##
-  <div> 
-  <!--<a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-- Para caso eu faça um canal-->
-    
   <a href="https://www.instagram.com/marcu_uss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/marcus-vinícius-b11675209" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>    
