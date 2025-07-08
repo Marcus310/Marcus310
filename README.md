@@ -1,11 +1,8 @@
 # Olá! Eu sou o Marcus Vinicius 🤝
 
 ## Sobre mim
--  🖥️  Estagiario de T.I
+-  👨‍💻 Programador front-end
 -  👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas na FACENS de Sorocaba
--  👨‍💻 Futuro dev front-end
--  💻 Estudando HTML5, CSS3 e JS
-
 
 ## Estatisticas 
 
