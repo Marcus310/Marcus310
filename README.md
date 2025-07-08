@@ -11,8 +11,8 @@
 
 <div style="display: flex; flex-direction: column;">
   <a href="https://github.com/Marcus310">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marcus310&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marcus310&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="190em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marcus310&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marcus310&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
